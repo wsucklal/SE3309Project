@@ -2,8 +2,8 @@
 Repository for assignments in 3309
 
 Group Members:
-Warren Sucklal
-Kenneth Aidoo
-Mathew Miller
-Liam Sharkey
+Warren Sucklal,
+Kenneth Aidoo,
+Mathew Miller,
+Liam Sharkey,
 Justin Beaudry
